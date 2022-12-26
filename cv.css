@@ -1,0 +1,47 @@
+body{
+    background-color:darkgrey; 
+
+}
+.page{
+  width: 800px;  
+  font-family: fantasy;
+ font: size 14px;
+  margin: auto;
+  border-radius: 1%;
+  background-color: white;
+}
+
+.infophoto{
+    height: 200px;
+    margin-bottom: 100px;
+}
+.info{
+    float: right;
+    padding-right: 250px;
+}
+
+.photo{
+    float: left;
+    border-radius: 2px solid rgb(18, 11, 58) ;
+    margin-top: -50px;
+    margin-right: 50px;
+}
+.profil{
+    border-radius: 50%;
+    background-color: blue;
+    background-size: 800px;
+}
+img{
+    width: 35%;
+}
+h1{
+    font-size: 22px;
+    font-weight: bold;
+    color:royalblue;
+    border-bottom: 2px solid royalblue;
+    border-width: 4px;
+}
+
+th {
+    color: royalblue;
+}
